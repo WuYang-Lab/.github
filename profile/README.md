@@ -9,4 +9,4 @@ We focus on statistical genetics and multi-omics methods to understand human dis
 
 **Contact**
 - Email: yang.wu@wchscu.cn
-- Website: https://yangwu-lab.github.io/Wulab/
+- Website: https://wuyang-lab.github.io/Wulab/
